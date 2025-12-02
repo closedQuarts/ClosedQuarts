@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Efe!</h1>
+<h1 align="center">Hello!,Hallo!,Merhaba! 👋, I'm Efe!</h1>
 <h3 align="center">As a New Grad Computer Engineer</h3>
 
 - I’m currently working on **Unity Pathways,DevOps,JavaFrameworks**
